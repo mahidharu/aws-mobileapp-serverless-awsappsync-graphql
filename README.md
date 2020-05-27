@@ -2,4 +2,4 @@
 Mobile app using AWS AppSync, GraphQL, AWS SQS, AWS Step Functions, AWS Elasticsearch Service, DynamoDB
 
 # Architecture
-![AWS-MobileApp-Severless-AWSAppSync-GraphQL_Architecture](https://user-images.githubusercontent.com/43684464/82983562-f2d28000-9fb5-11ea-8ef7-e3f04dbbb556.PNG
+![AWS-MobileApp-Severless-AWSAppSync-GraphQL_Architecture](https://user-images.githubusercontent.com/43684464/82983801-6d030480-9fb6-11ea-83f9-8fbb7d95a2ca.png)
